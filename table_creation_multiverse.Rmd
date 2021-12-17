@@ -879,7 +879,6 @@ tab_vars %>%
   scrollTable(digits = 3, width = "900px", height = "800px")
 ```
 
-
 # Even More ...
 
 This list was far from exhaustive, these are just the ones I've found useful here and there. Here is a more complete, yet still not exhaustive list: `huxtable`, `htmlTable`, `tableHTML`, `ztable`, `formattable`, `pixiedust`, `basictabler`, `mmtable2`, `DT`, `tables`, `xtable`, ...
